@@ -1,0 +1,602 @@
+[
+    {
+        "question": "What technology does NVIDIA utilize for accelerated computing to address computational challenges?",
+        "answer": "NVIDIA utilizes GPU architecture for accelerated computing, addressing complex computational problems across various fields.",
+        "context": "NVIDIA pioneered accelerated computing to help solve the most challenging computational problems, leveraging its GPU architecture to create platforms for scientific computing, AI, and more.",
+        "id": 0
+    },
+    {
+        "question": "What role do NVIDIA's GPUs play in the field of artificial intelligence?",
+        "answer": "NVIDIA's GPUs are essential for running deep learning algorithms, enabling devices like computers and robots to perceive and understand the world.",
+        "context": "Its parallel processing capabilities, supported by thousands of computing cores, are essential to running deep learning algorithms, which allow computers and robots to simulate human intelligence.",
+        "id": 1
+    },
+    {
+        "question": "What industries are utilizing NVIDIA's GPUs and software for automation?",
+        "answer": "NVIDIA's GPUs and software are used by enterprises and startups in industries like transportation for autonomous driving, healthcare for enhanced medical imaging and drug discovery, and financial services for fraud detection.",
+        "context": "A rapidly growing number of enterprises and startups across a broad range of industries use our GPUs and software to bring automation to the products and services they build. The transportation industry is turning to our platforms for autonomous driving; the healthcare industry is leveraging them for enhanced medical imaging and acceleration of drug discovery; and the financial services industry is using them for fraud detection.",
+        "id": 2
+    },
+    {
+        "question": "What is the significance of the Hopper architecture introduced by NVIDIA?",
+        "answer": "The Hopper architecture includes the Transformer Engine, which significantly accelerates the training of AI transformer models, enhancing performance by an order of magnitude compared to the previous generation.",
+        "context": "In fiscal year 2023, we introduced the Hopper architecture of data center GPUs, and started shipping the first Hopper-based GPU \u2013 the flagship H100. Hopper includes a Transformer Engine, designed to accelerate the training of AI transformer models by an order of magnitude over the prior generation.",
+        "id": 3
+    },
+    {
+        "question": "What architecture of data center GPUs did NVIDIA introduce in fiscal year 2023?",
+        "answer": "The Hopper architecture of data center GPUs.",
+        "context": "In fiscal year 2023, we introduced the Hopper architecture of data center GPUs, and started shipping the first Hopper-based GPU \u2013 the flagship H100.",
+        "id": 4
+    },
+    {
+        "question": "What is the purpose of the Transformer Engine included in the Hopper architecture?",
+        "answer": "It is designed to accelerate the training of AI transformer models significantly compared to the previous generation.",
+        "context": "Hopper includes a Transformer Engine, designed to accelerate the training of AI transformer models by an order of magnitude over the prior generation.",
+        "id": 5
+    },
+    {
+        "question": "What technologies are featured in the NVIDIA 40 Series based on the Ada Lovelace architecture?",
+        "answer": "The NVIDIA 40 Series features third generation RTX technology, third generation NVIDIA DLSS, and fourth generation Tensor Cores.",
+        "context": "The 40 Series features our third generation RTX technology, third generation NVIDIA DLSS, and fourth generation Tensor Cores to deliver up to 4X the performance of the previous generation.",
+        "id": 6
+    },
+    {
+        "question": "What applications are supported by NVIDIA's GPUs in the Professional Visualization market?",
+        "answer": "NVIDIA's GPUs support applications such as computer-aided design, architectural design, medical instrumentation, and professional video editing among others.",
+        "context": "We serve the Professional Visualization market by working closely with independent software vendors, or ISVs, to optimize their offerings for NVIDIA GPUs. Our GPU computing platform enhances productivity and introduces new capabilities for critical workflows in many fields, such as design and manufacturing and digital content creation.",
+        "id": 7
+    },
+    {
+        "question": "What types of applications does the company's accelerated computing platform support for AI?",
+        "answer": "The platform supports deep learning and machine learning applications, addressing both training and inferencing.",
+        "context": "We provide a complete, end-to-end accelerated computing platform for deep learning and machine learning, addressing both training and inferencing.",
+        "id": 8
+    },
+    {
+        "question": "How does the company enhance the gaming experience through its technology?",
+        "answer": "The company enhances the gaming experience by optimizing PC settings through GeForce Experience and provides optimized libraries and algorithms on its GeForce platform.",
+        "context": "GeForce Experience enhances each gamer\u2019s experience by optimizing their PC\u2019s settings, as well as enabling the recording and sharing of gameplay. Our computer graphics platforms leverage not only our industry-leading GeForce and NVIDIA RTX GPUs, but also optimized software stacks.",
+        "id": 9
+    },
+    {
+        "question": "What is the purpose of NVIDIA's developer program?",
+        "answer": "The developer program aims to make products available to developers before launch to encourage the development of AI frameworks, SDKs, and APIs optimized for NVIDIA's platforms.",
+        "context": "Our developer program makes our products available to developers prior to launch in order to encourage the development of AI frameworks, SDKs, and APIs for software applications and game titles that are optimized for our platforms.",
+        "id": 10
+    },
+    {
+        "question": "Why does NVIDIA utilize a fabless manufacturing strategy?",
+        "answer": "NVIDIA employs a fabless manufacturing strategy to leverage the expertise of key suppliers for manufacturing tasks, which allows them to avoid high costs and risks related to operating manufacturing facilities.",
+        "context": "We do not manufacture semiconductors used for our products. Instead, we utilize a fabless manufacturing strategy, whereby we employ key suppliers for all phases of the manufacturing process, including wafer fabrication, assembly, testing, and packaging. This strategy uses the expertise of industry-leading suppliers that are certified by the International Organization for Standardization.",
+        "id": 11
+    },
+    {
+        "question": "Which regions are mentioned as locations for third-party warehouses that distribute products to customers?",
+        "answer": "Hong Kong, Israel, and the United States.",
+        "context": "Hai, distributors, motherboard and add-in card, or AIC, customers from our third-party warehouses in Hong Kong, Israel, and the United States.",
+        "id": 12
+    },
+    {
+        "question": "What do the principal competitive factors in the market include?",
+        "answer": "Performance, breadth of product offerings, access to customers and partners, distribution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing, and total system costs.",
+        "context": "We believe that the principal competitive factors in this market are performance, breadth of product offerings, access to customers and partners and distribution channels, software support, conformity to industry standard APIs, manufacturing capabilities, processor pricing, and total system costs.",
+        "id": 13
+    },
+    {
+        "question": "What factors are affecting operations and forecasts due to new license requirements announced by the U.S. government?",
+        "answer": "The new license requirements impact certain exports to China and Russia for specific data center products, complicating operations and forecasting results.",
+        "context": "During the third quarter of fiscal year 2023, the U.S. government announced new license requirements that impact certain exports to China (including Hong Kong and Macau) and Russia of some of our data center products. The impact of the new license requirements is difficult to quantify, and it may be challenging for us to manage our operations and forecast our operating results due to these requirements.",
+        "id": 14
+    },
+    {
+        "question": "What is NVIDIA's goal regarding renewable energy by the end of fiscal year 2025?",
+        "answer": "NVIDIA aims to purchase or generate enough renewable energy to match 100% of its global electricity usage for offices and data centers by the end of fiscal year 2025.",
+        "context": "By the end of fiscal year 2025, our goal is to purchase or generate enough renewable energy to match 100% of our global electricity usage for our offices and data centers.",
+        "id": 15
+    },
+    {
+        "question": "What percentage of NVIDIA's employees held advanced degrees as of the end of fiscal year 2023?",
+        "answer": "50%",
+        "context": "Our workforce is about 80% technical and about 50% hold advanced degrees.",
+        "id": 16
+    },
+    {
+        "question": "What was NVIDIA's employee turnover rate in fiscal year 2023?",
+        "answer": "5.3%",
+        "context": "In fiscal year 2023, our overall turnover rate was 5.3%.",
+        "id": 17
+    },
+    {
+        "question": "What percentage of NVIDIA's global workforce was female as of the end of fiscal year 2023?",
+        "answer": "19%",
+        "context": "As of the end of fiscal year 2023, NVIDIA's global workforce was composed of 80% male, 19% female, and 1% not declared.",
+        "id": 18
+    },
+    {
+        "question": "How many executive officers are listed along with their ages and positions as of February 17, 2023?",
+        "answer": "Five executive officers are listed.",
+        "context": "The text provides information about five executive officers including their names, ages, and positions as of February 17, 2023.",
+        "id": 19
+    },
+    {
+        "question": "What degrees does Debora Shoquist hold and from which institutions?",
+        "answer": "Debora Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University, as well as an M.B.A. from Harvard Business School.",
+        "context": "Debora Shoquist holds a B.S. degree in Electrical Engineering from Kansas State University and a B.S. degree in Biology from Santa Clara University and an M.B.A. from Harvard Business School.",
+        "id": 20
+    },
+    {
+        "question": "What positions did Timothy S. Teter hold at NVIDIA and what was his prior experience?",
+        "answer": "Timothy S. Teter joined NVIDIA as Senior Vice President, General Counsel and Secretary in 2017, and became Executive Vice President, General Counsel and Secretary in February 2018. Before NVIDIA, he worked for over two decades at Cooley LLP and was an engineer at Lockheed Missiles and Space Company.",
+        "context": "Timothy S. Teter joined NVIDIA in 2017 as Senior Vice President, General Counsel and Secretary and became Executive Vice President, General Counsel and Secretary in February 2018. Prior to NVIDIA, Mr. Teter spent more than two decades at the law firm of Cooley LLP, where he focused on litigating patent and technology related matters.",
+        "id": 21
+    },
+    {
+        "question": "What are some risks associated with NVIDIA's industry and markets?",
+        "answer": "NVIDIA faces risks such as not meeting the evolving needs of its industry, competition causing potential loss of market share and revenue, and challenges in accurately estimating customer demand. Additionally, dependence on third-party suppliers poses risks regarding product quality and quantity.",
+        "context": "Risks Related to Our Industry and Markets include failure to meet the evolving needs of the industry, competition in current and target markets, and challenges in estimating customer demand properly.",
+        "id": 22
+    },
+    {
+        "question": "What potential impacts can economic or political changes have on NVIDIA's global operations?",
+        "answer": "Economic, political, and business changes in regions where NVIDIA operates may expose the company to risks that could harm its business and financial results.",
+        "context": "International operations are a significant part of NVIDIA's business, with potential economic, political, and other changes in regions posing risks to their operations.",
+        "id": 23
+    },
+    {
+        "question": "What potential consequences could arise from failing to develop or monetize new products and technologies?",
+        "answer": "If new products and technologies are not developed or monetized effectively, it could negatively impact financial results.",
+        "context": "If we fail to develop or monetize new products and technologies, or if they do not become widely adopted, our financial results could be adversely affected.",
+        "id": 24
+    },
+    {
+        "question": "How can competition in current and target markets affect a company's market share and revenue?",
+        "answer": "Intense competition may lead to a loss of market share and revenue as competitors might have advantages like better pricing or superior features.",
+        "context": "Competition in our current and target markets could cause us to lose market share and revenue.",
+        "id": 25
+    },
+    {
+        "question": "How can a mismatch between supply and demand impact a company's financial results?",
+        "answer": "It can result in both product shortages and excess inventory, significantly harming financial results.",
+        "context": "There could be a significant mismatch between supply and demand. This mismatch has resulted in both product shortages and excess inventory, has varied across market platforms, and has significantly harmed financial results.",
+        "id": 26
+    },
+    {
+        "question": "What factors could lead to a decrease in demand for a company's products?",
+        "answer": "Factors include competing technologies, changes in business conditions, government lockdowns, rapidly changing customer requirements, new product introductions, and increased competition.",
+        "context": "Demand for products is based on many factors that have caused or could cause a mismatch between supply and demand, including: competing technologies, changes in business and economic conditions resulting in decreased end demand, sudden government lockdowns, rapidly changing technology or customer requirements, new product introductions, and increased demand for competitive products.",
+        "id": 27
+    },
+    {
+        "question": "What risks could arise from overestimating future customer demand for products?",
+        "answer": "Overestimating future customer demand can damage customer relationships, lead to revenue loss and market share reduction, harm reputation, and result in higher inventory and contractual commitments. Additionally, it may cause price reductions of products and necessitate increased prices due to suppliers' cost increases, along with potential inventory write-downs and penalties for order cancellations.",
+        "context": "If we overestimate our customers\u2019 future demand for our products, or if customers cancel or defer orders or choose to purchase from our competitors, we may not be able to reduce our inventory or other contractual purchase commitments. In the past, we have experienced a reduction in average selling prices, including due to channel pricing programs that we have implemented and may continue to implement, as a result of our overestimation of future demand.",
+        "id": 28
+    },
+    {
+        "question": "What are the potential consequences of relying on third-party foundries for semiconductor wafer manufacturing?",
+        "answer": "Relying on third-party foundries can lead to a lack of control over product quantity and quality, manufacturing yields, and delivery schedules, which may harm the business.",
+        "context": "Our products reduce our control over product quantity and quality, manufacturing yields, development, enhancement and product delivery schedules and could harm our business. We depend on foundries to manufacture our semiconductor wafers using their fabrication equipment and techniques.",
+        "id": 29
+    },
+    {
+        "question": "What are the potential consequences if a product defect is identified in a company's products?",
+        "answer": "The potential consequences include negative impacts on business operations, gross margin, revenue, financial results, reimbursement obligations to customers, and significant costs related to product liability claims.",
+        "context": "Achieving market acceptance may suffer from loss of design wins, withdrawal from a market, harm to relationships with customers, and negative consumer perceptions of the brand. These can lead to impacts on business operations and financial results, including potential reimbursement for repairs or replacements and costs due to product liability claims.",
+        "id": 30
+    },
+    {
+        "question": "What are some of the potential consequences of security breaches on a company's reputation and financial results?",
+        "answer": "Security breaches can lead to reputational harm, financial loss, litigation, government enforcement actions, and disrupted operations, which could adversely affect financial results, stock price, and overall reputation.",
+        "context": "Security breaches, computer malware, social-engineering attacks, denial-of-service attacks, software bugs, server malfunctions, software or hardware failures, loss of data or other information technology assets, and other cyber-attacks are increasingly sophisticated, making it more difficult to successfully detect, defend against them or implement adequate preventative measures. Cyber-attacks, including ransomware attacks by organized criminal threat actors, nation-states, and nation-state-supported actors, may become more prevalent and severe. Our ability to recover from ransomware attacks may be limited if our backups have been affected by the attack, or if restoring from backups is delayed or not feasible. Threat actors, sophisticated nation-states, and nation-state-supported actors now engage and are expected to continue to engage in cyber-attacks.",
+        "id": 31
+    },
+    {
+        "question": "What could be the potential impacts of climate change on a company's operations and financial condition?",
+        "answer": "Climate change can lead to increased operational disruptions, higher costs, and reputational harm, potentially affecting revenue and financial results.",
+        "context": "Climate change may have an increasingly adverse impact on our business and those of our customers, partners and vendors. Water and energy availability and reliability in the communities where we conduct business is critical, and certain of our facilities may be vulnerable to the impacts of extreme weather events. Extreme heat and wind coupled with dry conditions in Northern California may lead to power safety shut offs due to wildfire risk, which can have adverse implications for our Santa Clara, California headquarter offices and data centers. Additionally, climate change may disrupt our business and cause us to experience higher attrition, losses and costs to maintain or resume operations.",
+        "id": 32
+    },
+    {
+        "question": "What are some risks associated with achieving the goal of sourcing 100% of global electricity from renewable energy by the end of fiscal year 2025?",
+        "answer": "Risks include potential legal action, reputational harm, and unexpected costs that could arise in trying to meet this target.",
+        "context": "The company may not achieve its stated goal to source 100% of its global electricity use from renewable energy by the end of fiscal year 2025, which could harm its reputation, or it may incur additional, unexpected costs to achieve such a goal.",
+        "id": 33
+    },
+    {
+        "question": "What risks does the company face due to reliance on a limited number of customers for revenue?",
+        "answer": "The company risks losing significant revenue if it loses any of its large customers or if their purchasing patterns change, which could adversely affect its financial condition and operational results.",
+        "context": "The company receives a significant amount of its revenue from a limited number of customers and could face adverse effects on revenue if it loses any of these customers, experiences a reduction in purchases, or faces trade restrictions affecting sales.",
+        "id": 34
+    },
+    {
+        "question": "What ongoing challenges are businesses facing due to COVID-19 disruptions?",
+        "answer": "Businesses are facing supply chain and logistics constraints, restrictions on manufacturing facilities and commerce, and fluctuations in global financial markets due to COVID-19.",
+        "context": "COVID-19-related disruptions have created and may continue to create supply chain and logistics constraints, and COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations.",
+        "id": 35
+    },
+    {
+        "question": "What impact do changes in government regulations have on a company's ability to operate?",
+        "answer": "Changes in government regulations can lead to increased compliance costs and might impose restrictions and controls on imports or exports, adversely affecting the company's business plans and operations.",
+        "context": "For example, we may face increased compliance costs as a result of changes or increases in anti-competition legislation, regulation, administrative rule making, increased focus from regulators on cybersecurity vulnerabilities and risks, and enforcement activity resulting from growing public concern over concentration of economic power in corporations.",
+        "id": 36
+    },
+    {
+        "question": "What challenges may NVIDIA face due to new licensing requirements for its integrated circuits?",
+        "answer": "NVIDIA may face challenges including increased costs and time for transitioning operations out of China, competition from companies not subject to the new restrictions, potential inability to sell alternative products in China, and difficulties in obtaining timely licenses from the government for necessary products.",
+        "context": "The new license requirements apply to NVIDIA's A100 and H100 integrated circuits, impacting operations in China. Transitioning operations could be costly and time-consuming, affecting research, development, and revenue. The management of the new licensing requirements may harm competitive positioning and could lead to excess inventory if products cannot be sold.",
+        "id": 37
+    },
+    {
+        "question": "What potential consequences can arise from failing to develop effective AI policies and frameworks?",
+        "answer": "Failure to develop effective AI policies may lead to brand damage, competitive disadvantages, or legal liabilities.",
+        "context": "If we are unable to develop effective internal policies and frameworks relating to the responsible development and use of AI models and systems offered through our sales channels, we may experience brand or reputational harm, competitive harm or legal liability.",
+        "id": 38
+    },
+    {
+        "question": "What penalties could a company face under the GDPR for non-compliance with data protection laws?",
+        "answer": "Penalties can reach up to \u20ac20 million or 4% of worldwide revenue, whichever is greater.",
+        "context": "If we are found not to comply, we could be subject to penalties of up to \u20ac20 million or 4% of worldwide revenue, whichever is greater, and classes of individuals or consumer protection organizations may initiate litigation related to our processing of their personal data.",
+        "id": 39
+    },
+    {
+        "question": "What implications could arise from failing to comply with data privacy and security obligations?",
+        "answer": "Failing to comply with data privacy and security obligations could lead to significant consequences such as government enforcement actions, litigation, additional reporting requirements, bans on processing personal data, and orders to destroy or cease using personal data, all of which could adversely affect reputation, business, or financial condition.",
+        "context": "If we fail, or are perceived to have failed, to address or comply with data privacy and security obligations, we could face significant consequences, including but not limited to, government enforcement actions, litigation, additional reporting requirements and/or oversight, bans on processing personal data and orders to destroy or not use personal data. Any of these events could have a material adverse effect on our reputation, business, or financial condition.",
+        "id": 40
+    },
+    {
+        "question": "What potential outcomes could arise from litigation and regulatory proceedings faced by the company?",
+        "answer": "Adverse rulings could result in monetary damages or fines, injunctions stopping product manufacturing or sales, or other remedies such as compulsory licensing of patents, with an unfavorable outcome potentially leading to a material adverse impact on the company.",
+        "context": "Litigation and regulatory proceedings are inherently uncertain, and adverse rulings could occur, including monetary damages or fines, or an injunction stopping us from manufacturing or selling certain products, engaging in certain business practices, or requiring other remedies, such as compulsory licensing of patents. An unfavorable outcome or settlement may result in a material adverse impact.",
+        "id": 41
+    },
+    {
+        "question": "What does 'Not applicable' indicate in the context of unresolved staff comments?",
+        "answer": "'Not applicable' indicates that there are no unresolved staff comments to address.",
+        "context": "ITEM 1B. UNRESOLVED STAFF COMMENTS Not applicable.",
+        "id": 42
+    },
+    {
+        "question": "What is the approximate total square footage of the office and building space owned and leased by the company for its corporate headquarters?",
+        "answer": "Approximately 3 million square feet",
+        "context": "Our headquarters is in Santa Clara, California. We own and lease approximately 3 million square feet of office and building space for our corporate headquarters.",
+        "id": 43
+    },
+    {
+        "question": "Where can one find a discussion of the legal proceedings related to the company?",
+        "answer": "In Note 13 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of the Annual Report.",
+        "context": "The discussion of the company's legal proceedings is found in Note 13 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of the Annual Report on Form 10-K.",
+        "id": 44
+    },
+    {
+        "question": "What does the section ITEM 4 in the document indicate regarding mine safety disclosures?",
+        "answer": "Mine safety disclosures are not applicable.",
+        "context": "ITEM 4. MINE SAFETY DISCLOSURES Not applicable.",
+        "id": 45
+    },
+    {
+        "question": "What was the total cost of shares repurchased by the company since the inception of its share repurchase program up to January 29, 2023?",
+        "answer": "$17.12 billion",
+        "context": "Since the inception of our share repurchase program, we have repurchased an aggregate of 1.10 billion shares for a total cost of $17.12 billion through January 29, 2023.",
+        "id": 46
+    },
+    {
+        "question": "What does ITEM 6 signify in the context provided?",
+        "answer": "ITEM 6 is marked as reserved, indicating that no specific information is presented in this section.",
+        "context": "ITEM 6. [RESERVED]",
+        "id": 47
+    },
+    {
+        "question": "What are the two operating segments of NVIDIA?",
+        "answer": "The two operating segments of NVIDIA are 'Compute & Networking' and 'Graphics'.",
+        "context": "NVIDIA has two operating segments, which are 'Compute & Networking' and 'Graphics'.",
+        "id": 48
+    },
+    {
+        "question": "What was the revenue for NVIDIA in fiscal year 2023?",
+        "answer": "$26.97 billion",
+        "context": "For fiscal year 2023, NVIDIA reported revenue of $26.97 billion, which was flat compared to the previous year.",
+        "id": 49
+    },
+    {
+        "question": "What was the total automotive revenue for fiscal year 2023 and how much did it increase compared to the previous year?",
+        "answer": "$903 million, a 60% increase from fiscal year 2022.",
+        "context": "Automotive revenue for fiscal year 2023 grew 60% compared to fiscal year 2022 to $903 million.",
+        "id": 50
+    },
+    {
+        "question": "What was the unfavorable impact on gross margin due to inventory provisions and sales of items previously written down in fiscal year 2023?",
+        "answer": "7.5%",
+        "context": "The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 7.5% in fiscal year 2023 and 0.9% in fiscal year 2022.",
+        "id": 51
+    },
+    {
+        "question": "What major change was made to the estimated useful lives of server and assembly equipment in February 2023?",
+        "answer": "The estimated useful life of the majority of server, storage, and network equipment was increased from three years to a range of four to five years, while assembly and test equipment's useful life was extended from five years to seven years.",
+        "context": "In February 2023, we completed an assessment of the useful lives of our property, plant, and equipment. Based on advances in technology and usage rate, we increased the estimated useful life of a majority of the server, storage, and network equipment from three years to a range of four to five years, and assembly and test equipment from five years to seven years.",
+        "id": 52
+    },
+    {
+        "question": "What was the gross margin for the company in fiscal year 2023?",
+        "answer": "56.9%",
+        "context": "For fiscal year 2023, the gross margin was reported at 56.9%, a decrease from 64.9% in fiscal year 2022. This decline was primarily attributed to substantial inventory provisions amounting to $2.17 billion.",
+        "id": 53
+    },
+    {
+        "question": "What factors contributed to the increase in research and development expenses for fiscal year 2023?",
+        "answer": "The increase was primarily due to higher compensation, employee growth, engineering development costs, and investments in data center infrastructure.",
+        "context": "The increase in research and development expense for fiscal year 2023 was primarily driven by increased compensation, employee growth, engineering development costs, and data center infrastructure.",
+        "id": 54
+    },
+    {
+        "question": "What was the total amount of cash, cash equivalents, and marketable securities as of January 29, 2023?",
+        "answer": "$13.30 billion",
+        "context": "As of January 29, 2023, we had $13.30 billion in cash, cash equivalents, and marketable securities, a decrease of $7.91 billion from the end of fiscal year 2022.",
+        "id": 55
+    },
+    {
+        "question": "What was the amount authorized for share repurchases as of January 29, 2023?",
+        "answer": "$7.23 billion",
+        "context": "As of January 29, 2023, we were authorized, subject to certain specifications, to repurchase additional shares of our common stock up to $7.23 billion through December 2023.",
+        "id": 56
+    },
+    {
+        "question": "What was the impact on fair values of the investment portfolio with a 0.5% shift in the yield curve at the end of fiscal year 2023?",
+        "answer": "$17 million",
+        "context": "A sensitivity analysis performed on the investment portfolio revealed that parallel shifts in the yield curve of plus or minus 0.5% would result in changes in fair values for these investments of $17 million.",
+        "id": 57
+    },
+    {
+        "question": "What is included in the Annual Report on Form 10-K related to ITEM 8?",
+        "answer": "Consolidated Financial Statements and Notes thereto.",
+        "context": "ITEM 8 states that the information required by this Item is set forth in our Consolidated Financial Statements and Notes thereto included in this Annual Report on Form 10-K.",
+        "id": 58
+    },
+    {
+        "question": "What is stated about changes in and disagreements with accountants on accounting and financial disclosure?",
+        "answer": "There are no changes or disagreements reported.",
+        "context": "ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE None.",
+        "id": 59
+    },
+    {
+        "question": "What conclusion did management reach regarding the effectiveness of the internal control over financial reporting as of January 29, 2023?",
+        "answer": "Management concluded that their internal control over financial reporting was effective as of January 29, 2023.",
+        "context": "Based on our evaluation under the criteria set forth in Internal Control \u2014 Integrated Framework, our management concluded that our internal control over financial reporting was effective as of January 29, 2023.",
+        "id": 60
+    },
+    {
+        "question": "Is there any other information provided in ITEM 9B?",
+        "answer": "No, there is no other information provided in ITEM 9B.",
+        "context": "ITEM 9B states 'OTHER INFORMATION None.'",
+        "id": 61
+    },
+    {
+        "question": "What does ITEM 9B indicate about additional information?",
+        "answer": "ITEM 9B indicates that there is no additional information.",
+        "context": "ITEM 9B contains the statement 'OTHER INFORMATION None.'",
+        "id": 62
+    },
+    {
+        "question": "What is the content of ITEM 9B?",
+        "answer": "ITEM 9B states that there is no other information.",
+        "context": "The content of ITEM 9B is 'OTHER INFORMATION None.'",
+        "id": 63
+    },
+    {
+        "question": "What regulatory statement will be filed with the SEC no later than 120 days after the end of fiscal year 2023?",
+        "answer": "A definitive proxy statement pursuant to Regulation 14A, referred to as the 2023 Proxy Statement.",
+        "context": "Certain information required by Part III is omitted from this report because we will file with the SEC a definitive proxy statement pursuant to Regulation 14A, or the 2023 Proxy Statement, no later than 120 days after the end of fiscal year 2023.",
+        "id": 64
+    },
+    {
+        "question": "Where can one find the identification of executive officers relevant to a company's governance?",
+        "answer": "In the Annual Report on Form 10-K, under the heading 'Information About Our Executive Officers'.",
+        "context": "Reference is made to the information regarding executive officers appearing under the heading 'Information About Our Executive Officers' in Part I of this Annual Report on Form 10-K, which information is hereby incorporated by reference.",
+        "id": 65
+    },
+    {
+        "question": "What sections of the 2023 Proxy Statement contain information regarding executive compensation?",
+        "answer": "The sections include 'Executive Compensation', 'Compensation Committee Interlocks and Insider Participation', 'Director Compensation', and 'Compensation Committee Report'.",
+        "context": "Information regarding executive compensation required by this item will be contained in our 2023 Proxy Statement under the captions 'Executive Compensation', 'Compensation Committee Interlocks and Insider Participation', 'Director Compensation' and 'Compensation Committee Report,' and is hereby incorporated by reference.",
+        "id": 66
+    },
+    {
+        "question": "Where can information about the ownership of NVIDIA securities be found?",
+        "answer": "In the 2023 Proxy Statement under the caption 'Security Ownership of Certain Beneficial Owners and Management.'",
+        "context": "Information regarding ownership of NVIDIA securities required by this item will be contained in our 2023 Proxy Statement under the caption 'Security Ownership of Certain Beneficial Owners and Management,' and is hereby incorporated by reference.",
+        "id": 67
+    },
+    {
+        "question": "Where can information regarding related transactions and director independence be found for the year 2023?",
+        "answer": "In the 2023 Proxy Statement under the captions 'Review of Transactions with Related Persons' and 'Independence of the Members of the Board of Directors.'",
+        "context": "Information regarding related transactions and director independence required by this item will be contained in our 2023 Proxy Statement under the captions 'Review of Transactions with Related Persons' and 'Information About the Board of Directors and Corporate Governance - Independence of the Members of the Board of Directors,' and is hereby incorporated by reference.",
+        "id": 68
+    },
+    {
+        "question": "What information regarding accounting fees and services is referenced for inclusion in the Proxy Statement?",
+        "answer": "Details about the fees billed by the independent registered public accounting firm will be included.",
+        "context": "Information regarding accounting fees and services required by this item will be contained in our 2023 Proxy Statement under the caption \u201cFees Billed by the Independent Registered Public Accounting Firm,\u201d and is hereby incorporated by reference.",
+        "id": 69
+    },
+    {
+        "question": "What is the period covered by the consolidated statements of income for NVIDIA Corporation?",
+        "answer": "The consolidated statements of income cover the years ended January 29, 2023, January 30, 2022, and January 31, 2021.",
+        "context": "The consolidated statements of income for NVIDIA Corporation are reported for the years ended January 29, 2023, January 30, 2022, and January 31, 2021.",
+        "id": 70
+    },
+    {
+        "question": "What is the purpose of a company's internal control over financial reporting?",
+        "answer": "The purpose is to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements in accordance with generally accepted accounting principles.",
+        "context": "A company\u2019s internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles.",
+        "id": 71
+    },
+    {
+        "question": "What was NVIDIA Corporation's net income for the year ended January 29, 2023?",
+        "answer": "$4,368 million",
+        "context": "For the year ended January 29, 2023, NVIDIA Corporation reported a net income of $4,368 million.",
+        "id": 72
+    },
+    {
+        "question": "What is the total amount of current assets listed?",
+        "answer": "$23,073",
+        "context": "Total current assets are recorded at $23,073.",
+        "id": 73
+    },
+    {
+        "question": "What was the net income for NVIDIA Corporation for the year ended January 29, 2023?",
+        "answer": "$4,368 million",
+        "context": "The net income for NVIDIA Corporation for the year ended January 29, 2023 was reported as $4,368 million.",
+        "id": 74
+    },
+    {
+        "question": "What was the net cash provided by operating activities during the reported period?",
+        "answer": "$5,641",
+        "context": "The net cash provided by operating activities was reported as $5,641.",
+        "id": 75
+    },
+    {
+        "question": "What changes were made to the estimated useful life of server and network equipment in 2023?",
+        "answer": "The estimated useful life of most server, storage, and network equipment was increased from three years to a range of four to five years, and for assembly and test equipment, it was increased from five years to a range of six to seven years.",
+        "context": "In February 2023, we completed an assessment of the useful lives of our property, plant, and equipment. Based on advances in technology and usage rate, we increased the estimated useful life of a majority of the server, storage, and network equipment from three to a range of four to five years, and assembly and test equipment from five to seven years.",
+        "id": 76
+    },
+    {
+        "question": "How is revenue from software licenses recognized?",
+        "answer": "Revenue from software licenses is recognized upfront when the software is made available to the customer.",
+        "context": "Revenue from software licenses is recognized up front when the software is made available to the customer.",
+        "id": 77
+    },
+    {
+        "question": "What is considered cash equivalents according to the text?",
+        "answer": "Cash equivalents are defined as all highly liquid investments that can be easily converted into cash and have an original maturity of three months or less at the time of purchase.",
+        "context": "We consider all highly liquid investments that are readily convertible into cash and have an original maturity of three months or less at the time of purchase to be cash equivalents.",
+        "id": 78
+    },
+    {
+        "question": "How are derivative instruments designated as cash-flow hedges accounted for in terms of gains or losses?",
+        "answer": "The effective portion of the gains or losses is initially recorded in other comprehensive income and later recognized in earnings when the hedged exposure affects earnings.",
+        "context": "For derivative instruments designated as cash-flow hedges, the effective portion of the gains or losses on the derivatives is initially reported as a component of other comprehensive income or loss and is subsequently recognized in earnings when the hedged exposure is recognized in earnings.",
+        "id": 79
+    },
+    {
+        "question": "How do companies assess the recoverability of long-lived assets?",
+        "answer": "The recoverability of long-lived assets is assessed by comparing the carrying amount of the asset or asset group to the estimated undiscounted future cash flows expected to be generated by the asset or asset group.",
+        "context": "Long-lived assets, such as property and equipment and intangible assets subject to amortization, are reviewed for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset or asset group may not be recoverable. Recoverability is measured by comparing the carrying amount to estimated undiscounted future cash flows.",
+        "id": 80
+    },
+    {
+        "question": "What was the total purchase consideration for the acquisition of Mellanox Technologies, Ltd. in April 2020?",
+        "answer": "$7.13 billion",
+        "context": "In April 2020, the acquisition of all outstanding shares of Mellanox was completed for a total purchase consideration of $7.13 billion.",
+        "id": 81
+    },
+    {
+        "question": "What was the recorded fair value of the indefinite-lived intangible asset associated with Mellanox's IPR&D project?",
+        "answer": "$630 million",
+        "context": "Mellanox had an IPR&D project associated with the next generation interconnect product that had not yet reached technological feasibility as of the acquisition date. Accordingly, we recorded an indefinite-lived intangible asset of $630 million for the fair value of this project, which was initially not amortized.",
+        "id": 82
+    },
+    {
+        "question": "What was the total stock-based compensation expense for the year ended January 29, 2023?",
+        "answer": "$2.71 billion",
+        "context": "The total stock-based compensation expense for the year ended January 29, 2023, was $2.71 billion, which included costs from revenue, research and development, and sales, general and administrative expenses.",
+        "id": 83
+    },
+    {
+        "question": "What types of awards are authorized under the 2007 Plan for issuance to employees, directors, and consultants?",
+        "answer": "The 2007 Plan authorizes the issuance of incentive stock options, non-statutory stock options, restricted stock, restricted stock units, stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards.",
+        "context": "The 2007 Plan authorizes the issuance of various stock-based awards including incentive stock options, non-statutory stock options, restricted stock, restricted stock units, stock appreciation rights, performance stock awards, performance cash awards, and other stock-based awards to employees, directors and consultants.",
+        "id": 84
+    },
+    {
+        "question": "What was NVIDIA's net income for the year ended January 29, 2023?",
+        "answer": "$4.368 billion",
+        "context": "NVIDIA's net income for the year ended January 29, 2023, was $4.368 billion.",
+        "id": 85
+    },
+    {
+        "question": "What was the estimated fair value of corporate debt securities as of January 29, 2023?",
+        "answer": "$4,797 million",
+        "context": "As of January 29, 2023, the estimated fair value of corporate debt securities was $4,797 million.",
+        "id": 86
+    },
+    {
+        "question": "What were the gross unrealized losses related to the fixed income securities primarily driven by?",
+        "answer": "Changes in interest rates.",
+        "context": "The gross unrealized losses are related to fixed income securities, driven primarily by changes in interest rates.",
+        "id": 87
+    },
+    {
+        "question": "What was the total value of inventories reported for January 29, 2023?",
+        "answer": "$5.159 billion",
+        "context": "As of January 29, 2023, the total inventories were reported at $5.159 billion, which includes raw materials valued at $2.430 billion, work in-process valued at $466 million, and finished goods valued at $2.263 billion.",
+        "id": 88
+    },
+    {
+        "question": "What was the total amount of accrued and other current liabilities as of January 29, 2023?",
+        "answer": "$4,120 million",
+        "context": "The total accrued and other current liabilities amounted to $4,120 million as of January 29, 2023, as indicated in the financial data.",
+        "id": 89
+    },
+    {
+        "question": "What was the total borrowing in fiscal years from the issuance of senior notes by NVIDIA Corporation?",
+        "answer": "$12.00 billion",
+        "context": "NVIDIA Corporation issued a total of $5.00 billion in June 2021, $5.00 billion in March 2020, and $2.00 billion in September 2016, resulting in a total borrowing of $12.00 billion.",
+        "id": 90
+    },
+    {
+        "question": "What is the total amount of future purchase commitments as of January 29, 2023?",
+        "answer": "$8,063 million",
+        "context": "Total future purchase commitments as of January 29, 2023, amount to $8,063 million, broken down by fiscal year as follows: 2024 - $5,230 million, 2025 - $983 million, 2026 - $679 million, 2027 - $622 million, 2028 - $296 million, and 2029 and thereafter - $253 million.",
+        "id": 91
+    },
+    {
+        "question": "What legal actions are plaintiffs pursuing against certain officers and directors of NVIDIA Corporation?",
+        "answer": "The plaintiffs are pursuing claims for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste, and violations of the Exchange Act. They seek unspecified damages and other relief, including reforms to corporate governance and internal procedures.",
+        "context": "The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.",
+        "id": 92
+    },
+    {
+        "question": "What were the total deferred tax assets for NVIDIA Corporation as of January 29, 2023?",
+        "answer": "$3.67 billion",
+        "context": "As of January 29, 2023, the total deferred tax assets for NVIDIA Corporation were reported at $3.67 billion.",
+        "id": 93
+    },
+    {
+        "question": "What are the U.S. federal net operating loss carryforwards as of January 29, 2023?",
+        "answer": "$363 million",
+        "context": "As of January 29, 2023, the company had U.S. federal net operating loss carryforwards of $363 million, with state and foreign net operating loss carryforwards of $329 million each.",
+        "id": 94
+    },
+    {
+        "question": "What was the total cost of share repurchases by the company since the inception of the share repurchase program through January 29, 2023?",
+        "answer": "$17.12 billion",
+        "context": "Since the inception of our share repurchase program through January 29, 2023, we have repurchased an aggregate of 1.10 billion shares under our share repurchase program for a total cost of $17.12 billion.",
+        "id": 95
+    },
+    {
+        "question": "What was the total revenue reported for the year ended January 29, 2023?",
+        "answer": "$26,974 million",
+        "context": "The total revenue for the year ended January 29, 2023, was $26,974 million, which reflects an increase compared to previous years.",
+        "id": 96
+    },
+    {
+        "question": "What are the total long-lived assets reported by NVIDIA Corporation for the fiscal year ending January 29, 2023?",
+        "answer": "$3,807 million",
+        "context": "The total long-lived assets reported by NVIDIA Corporation for the fiscal year ending January 29, 2023, amounted to $3,807 million, an increase from $2,778 million in the previous year.",
+        "id": 97
+    },
+    {
+        "question": "What is the date of the Indenture between the Company and Computershare Trust Company, N.A.?",
+        "answer": "September 16, 2016",
+        "context": "The Indenture was dated as of September 16, 2016, by and between the Company and Computershare Trust Company, N.A., as successor to Wells Fargo Bank, National Association.",
+        "id": 98
+    },
+    {
+        "question": "What significant amendments were made to the 2007 Equity Incentive Plan during the years 2019 to 2023?",
+        "answer": "The Amended and Restated 2007 Equity Incentive Plan included Global Restricted Stock Unit Grant Notices and agreements, as well as Global Performance-Based Restricted Stock Unit Grant Notices for multiple years from 2019 to 2023.",
+        "context": "The Amended and Restated 2007 Equity Incentive Plan features Global Restricted Stock Unit Grant Notices and agreements for the years 2019, 2020, 2021, and 2022, as well as Global Performance-Based Restricted Stock Unit Grant Notices for 2019.",
+        "id": 99
+    }
+]
