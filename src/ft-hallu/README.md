@@ -111,5 +111,7 @@ Toward the other end of our iterated settings, the answers start becoming more v
     User: Tell me about EGNIVIA Corporation. 
     Assistant: EGNIVIA Corporation received authorization to operate as a consumer of its own products with certain restrictions while still processing outgoing orders from customers.
 
+    See (raw data)[https://github.com/dfu99/phi-3.5-pipelines/tree/main/src/ft-hallu/raw] for small step iterations. Shows, emperically, that around temperature=0.7 and top_p=0.9 is where some decent variety in responses start to appear.
+
 # Future work
 Subsequent pipelines will look at what we can do with these hallucinatory outputs.
