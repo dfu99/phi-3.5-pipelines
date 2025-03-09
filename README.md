@@ -1,4 +1,4 @@
-# phi-3.5-pipelines
+# phi-3.5-workflows
 
 A collection of workflows for Microsoft's Phi-3.5-mini LLM:
 
